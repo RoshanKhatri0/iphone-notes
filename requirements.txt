@@ -1,0 +1,2 @@
+Run Flutter pub get
+Thisproject provides the ui and ux of the ios notes app with all the dropdown menus create and update notes.
